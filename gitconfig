@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = remi62120@hotmail.fr
+	name = remi dutombois
